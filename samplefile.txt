@@ -1,1 +1,4 @@
 I am testing the git tag for practice
+Quickly define the task
+manage the priority
+Add details and estimate the backlog item in advance
