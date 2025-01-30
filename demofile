@@ -1,1 +1,1 @@
-git stash is a git command that temporarily stores your uncomitted dara and allows you to switch branches.
+git stash is a git command that temporarily stores your uncomitted dara and allows you to switch branches, pull updates or work on something else without losing your current changes.
